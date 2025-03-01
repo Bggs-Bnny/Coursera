@@ -1,4 +1,4 @@
 # Coursera
-Optional Labs for Coursera.
+Labs for Coursera.
 
 Created by Bggs-Bnny
